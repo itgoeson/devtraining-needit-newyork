@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Approvals" section_id="8c43734bdb5d001054af84da0b961987" sys_domain="global" table="x_58872_needit_needit" version="3" view="Show_created_on">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-28 15:41:31</sys_created_on>
+            <sys_id>9843734bdb5d001054af84da0b9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approvals" display_value="Approvals" name="x_58872_needit_needit" sys_domain="global" view="244137c7db5d001054af84da0b9619d5">8c43734bdb5d001054af84da0b961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-28 15:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_set</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-28 15:41:31</sys_created_on>
+            <sys_id>1c43734bdb5d001054af84da0b9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approvals" display_value="Approvals" name="x_58872_needit_needit" sys_domain="global" view="244137c7db5d001054af84da0b9619d5">8c43734bdb5d001054af84da0b961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-28 15:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-28 15:41:31</sys_created_on>
+            <sys_id>9c43734bdb5d001054af84da0b9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approvals" display_value="Approvals" name="x_58872_needit_needit" sys_domain="global" view="244137c7db5d001054af84da0b9619d5">8c43734bdb5d001054af84da0b961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-28 15:41:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_history</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-28 15:41:31</sys_created_on>
+            <sys_id>1043734bdb5d001054af84da0b9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approvals" display_value="Approvals" name="x_58872_needit_needit" sys_domain="global" view="244137c7db5d001054af84da0b9619d5">8c43734bdb5d001054af84da0b961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-28 15:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Approvals</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-28 15:41:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c43734bdb5d001054af84da0b961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Approvals</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_8c43734bdb5d001054af84da0b961987</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-28 15:41:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Show created on" name="Show_created_on">244137c7db5d001054af84da0b9619d5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
